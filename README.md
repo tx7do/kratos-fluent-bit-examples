@@ -1,0 +1,1 @@
+# kratos-fluent-bit-examples
